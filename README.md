@@ -4,7 +4,7 @@
 
 ![Logotype](./docs/logo.jpg)
 
-<!--Установка-->
+<!--Установка (Windows)-->
 
 1. Клонирование репозитория
 ```git clone https://github.com/JohnnyMcLaren/WorkFlowTest.git```
